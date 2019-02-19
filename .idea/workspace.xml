@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99f257b5-5078-4eea-9dde-c20e2ad5060e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/snakebattle_engine$YourSolver.ic" NAME="YourSolver Coverage Results" MODIFIED="1549912530704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.codenjoy.dojo.snakebattle.client.state.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codenjoy/dojo/snakebattle/client/SolverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="126" column="34" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Field.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5393#5394#0" expanded="true" />
+                <element signature="e#5423#5424#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4573">
+              <caret line="287" column="8" selection-start-line="287" selection-start-column="8" selection-end-line="287" selection-end-column="8" />
+              <folding>
+                <element signature="e#1718#1719#0" expanded="true" />
+                <element signature="e#1769#1770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Action.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-65">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ИЩЕМ ЗМЕЮ РЯДОМ</find>
+      <find>ищу</find>
+      <find>danger</find>
+      <find>dan</find>
+      <find>ищем</find>
+      <find>уворо</find>
+      <find>StateOfBoard</find>
+      <find>(state)</find>
+      <find>, state</find>
+      <find>ошибка</find>
+      <find>Типо конец, но мы</find>
+      <find>setting</find>
+      <find>TIMEOUT</find>
+      <find>агрес</find>
+      <find>isB</find>
+      <find>defe</find>
+      <find>ø</find>
+      <find>STONE_POINT</find>
+      <find>getName</find>
+      <find>me.</find>
+      <find>боты</find>
+      <find>class</find>
+      <find>private</find>
+      <find>setFi</find>
+      <find>®</find>
+      <find>state</find>
+      <find>amount</find>
+      <find>☺</find>
+      <find>♣</find>
+      <find>outField</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/newanalyze/PointPrioritiesImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Priorities.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/newanalyze/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/newanalyze/PointPriorities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/newanalyze/Wall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/Wall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Fileld.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Enemy.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Scan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Enemy_Head.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/state/Settings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/PointPriorities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Move.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Me.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/None.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/state/StateOfBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Apple.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Fly.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Me.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_None.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Wall.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Wall.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/YourSolver.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Gold.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Gold.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Fly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Fury.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/ForceProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/EnemyBody.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/EnemyTail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/Stone.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Stone.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_Fury.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_EnemyBody.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_EnemyHead.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/points/EnemyHead.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Points_EnemyTail.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/StateOfBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Priority.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Priority.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/Snake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/PrimaryAnalitics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Analyzer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Starter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Settings.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/BotSettings.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codenjoy/dojo/snakebattle/client/SolverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Field.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="snakebattle-engine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="snakebattle-engine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snakebattle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snakebattle" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snakebattle" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snakebattle" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="points" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snakebattle-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snakebattle-servers-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550569895512" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoogleDrive\Программирование\snakebattle-servers-java\src\main\resources" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="com.codenjoy.dojo.snakebattle.model" />
+      <recent name="com.codenjoy.dojo.snakebattle.client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoogleDrive\Программирование\snakebattle-servers-java\src\main" />
+      <recent name="D:\GoogleDrive\Программирование\snakebattle-servers-java\src\main\java\com\codenjoy\dojo\snakebattle" />
+      <recent name="D:\GoogleDrive\Программирование\snakebattle-servers-java\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.codenjoy.dojo.snakebattle.client" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codenjoy.dojo.snakebattle.client.smart.points" />
+      <recent name="com.codenjoy.dojo.snakebattle.client.newanalyze" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.codenjoy.dojo.snakebattle.client" />
+      <recent name="com.codenjoy.dojo.snakebattle.client.newanalyze" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.YourSolver">
+    <configuration name="Action" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codenjoy.dojo.snakebattle.client.smart.analyze.Action" />
+      <module name="snakebattle-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codenjoy.dojo.snakebattle.client.smart.analyze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YourSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codenjoy.dojo.snakebattle.client.YourSolver" />
+      <module name="snakebattle-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codenjoy.dojo.snakebattle.client.smart.analyze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snakebattle-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codenjoy.dojo.snakebattle.client.smart.analyze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codenjoy.dojo.snakebattle.client" />
+      <option name="MAIN_CLASS_NAME" value="com.codenjoy.dojo.snakebattle.client.SolverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolverTest.should" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snakebattle-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codenjoy.dojo.snakebattle.client.smart.analyze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codenjoy.dojo.snakebattle.client" />
+      <option name="MAIN_CLASS_NAME" value="com.codenjoy.dojo.snakebattle.client.SolverTest" />
+      <option name="METHOD_NAME" value="should" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="snakebattle-engine-sources.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/snakebattle-engine-sources.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.YourSolver" />
+        <item itemvalue="JUnit.SolverTest" />
+        <item itemvalue="Application.Action" />
+        <item itemvalue="JUnit.SolverTest.should" />
+        <item itemvalue="JAR Application.snakebattle-engine-sources.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f257b5-5078-4eea-9dde-c20e2ad5060e" name="Default Changelist" comment="" />
+      <created>1549527642195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549527642195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SolverTest - 2019.02.18 at 23h 37m 42s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.18 at 23h 38m 08s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.18 at 23h 42m 38s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.19 at 11h 38m 56s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.19 at 11h 39m 33s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.19 at 11h 40m 53s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.19 at 11h 41m 46s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.19 at 11h 43m 08s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.19 at 20h 12m 53s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolverTest - 2019.02.19 at 20h 15m 27s.xml">
+      <configuration name="SolverTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29727793" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3844086" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23521505" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28494623" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2983871" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49489796" weight="0.3295129" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.50510204" side_tool="true" weight="0.3295129" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="pStat.amount" />
+        <watch expression="f[p.x][p.y]" />
+        <watch expression="f[p.x][p.y]==0?1:f[p.x][p.y]" />
+        <watch expression="pStat.amount + f[p.x][p.y]==0?1:f[p.x][p.y]" />
+        <watch expression="mainMap.get(new Point(4,27))" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>mainMap.get(new Point(4,27))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>two.compareTo(one)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>one.compareTo(two)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>point.distance(p) &lt;= r+0.5</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Apple.INSTANCE</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>work.getNames().atThird</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>work.getNames().atFirst</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Apple.values()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codenjoy/engine/1.0.27/engine-1.0.27-sources.jar!/com/codenjoy/dojo/client/WebSocketRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="236" column="9" selection-start-line="236" selection-start-column="9" selection-end-line="236" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codenjoy/engine/1.0.27/engine-1.0.27-sources.jar!/com/codenjoy/dojo/client/AbstractLayeredBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="e#4770#4771#0" expanded="true" />
+            <element signature="e#4805#4806#0" expanded="true" />
+            <element signature="e#8198#8199#0" expanded="true" />
+            <element signature="e#8233#8234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codenjoy/engine/1.0.27/engine-1.0.27-sources.jar!/com/codenjoy/dojo/client/AbstractBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#2539#2540#0" expanded="true" />
+            <element signature="e#2595#2596#0" expanded="true" />
+            <element signature="e#5659#5660#0" expanded="true" />
+            <element signature="e#5717#5718#0" expanded="true" />
+            <element signature="e#5829#5830#0" expanded="true" />
+            <element signature="e#5860#5861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/newanalyze/PointPrioritiesImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/my/Exp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Scan.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codenjoy/engine/1.0.27/engine-1.0.27-sources.jar!/com/codenjoy/dojo/services/algs/DeikstraFindWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-817">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codenjoy/engine/1.0.27/engine-1.0.27-sources.jar!/com/codenjoy/dojo/services/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1387">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#4286#4287#0" expanded="true" />
+            <element signature="e#4345#4346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Blocks.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/Me.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/state/Snake.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/None.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_Apple.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_Fly.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_Me.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_None.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_Gold.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/Gold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/Fury.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/ForceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/Fly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/EnemyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_Stone.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_Fury.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_EnemyBody.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_EnemyTail.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/Elements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="79" column="22" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_Wall.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Points_EnemyHead.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/Stone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/EnemyTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/EnemyHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/StateOfBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Priority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/YourSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3705#3706#0" expanded="true" />
+            <element signature="e#3780#3781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/model/points/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BotSettings_Old.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBlocks#0;class#Settings#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BotSettings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codenjoy/dojo/snakebattle/client/SolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="126" column="34" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4573">
+          <caret line="287" column="8" selection-start-line="287" selection-start-column="8" selection-end-line="287" selection-end-column="8" />
+          <folding>
+            <element signature="e#1718#1719#0" expanded="true" />
+            <element signature="e#1769#1770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codenjoy/dojo/snakebattle/client/smart/analyze/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5393#5394#0" expanded="true" />
+            <element signature="e#5423#5424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

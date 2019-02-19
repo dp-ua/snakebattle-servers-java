@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codenjoy.dojo.snakebattle.client.SolverTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.886 sec
